@@ -30,7 +30,7 @@ This is why a **pivot table analysis is required**.
 ## 📈 Pivot Table Analysis – Trailer Organization
 
 ### Pivot Table Overview
-![Pivot Table Overview](screenshots/pivot_table_overview.png)
+![Pivot Table Overview](screenshots/pivot_overview.png)
 
 The pivot table restructures the raw data to provide a **clear trailer-level view**.
 
